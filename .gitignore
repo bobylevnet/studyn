@@ -1,1 +1,4 @@
 ./products/static
+db.sqlite3
+./media
+.idea
